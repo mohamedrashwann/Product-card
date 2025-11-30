@@ -29,9 +29,9 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop preview screenshot] 
+![Screenshot of the Product Preview Card Component solution](https://private-us-east-1.manuscdn.com/sessionFile/ZtI8jjy0vpJlY3eLeVJ2hW/sandbox/AOCkauJK699zVFDm2cTQCo-images_1764534333104_na1fn_L2hvbWUvdWJ1bnR1L3NjcmVlbnNob3Q.png?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9wcml2YXRlLXVzLWVhc3QtMS5tYW51c2Nkbi5jb20vc2Vzc2lvbkZpbGUvWnRJOGpqeTB2cEpsWTNlTGVWSjJoVy9zYW5kYm94L0FPQ2thdUpLNjk5elZGRG0yY1RRQ28taW1hZ2VzXzE3NjQ1MzQzMzMxMDRfbmExZm5fTDJodmJXVXZkV0oxYm5SMUwzTmpjbVZsYm5Ob2IzUS5wbmciLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTg3NjE2MDB9fX1dfQ__&Key-Pair-Id=K2HSFNDJXOU9YS&Signature=iRyTvmbTgPmFaIClKBLGwG~joKutErXegvSaOLNMGzj9EvOKdcWI4tZexBJ5ulFOx2qhGV11QnLcTSRjAL5yujyV-Ca9TWnhpQY69RSJcqA18qmoGBY3F-IQTqeKq0RRse967tDtv7sk1Av4tQLXI4PnrPhBYUAVMJctIL5ISE1uhI8scSRsMezekrABh7W8xFslwNNFPF~KuP5Qgu-gkf4caLZbTqNAbASmnFLslMR5UNBrcmqHraREjR3djnnMUkuk2ELcjObAAI9rifmO6c2WjFLPhENCSPT1qOt8K1tw8ZIyXS2AkE5DA6MEwu6-MmvzQWp6UegXyNRzy9AJQw__)
 
-**Note to User:** The challenge's preview image was used as a temporary screenshot. Please replace it with an actual screenshot of your solution and save it as `screenshot.jpg` in the project's root folder.
+
 
 ### Links
 
